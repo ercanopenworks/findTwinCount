@@ -1,0 +1,7 @@
+E:\Projects\train_interview\findTwinCount\findTwinCount\bin\Debug\findTwinCount.exe.config
+E:\Projects\train_interview\findTwinCount\findTwinCount\bin\Debug\findTwinCount.exe
+E:\Projects\train_interview\findTwinCount\findTwinCount\bin\Debug\findTwinCount.pdb
+E:\Projects\train_interview\findTwinCount\findTwinCount\obj\Debug\findTwinCount.csprojResolveAssemblyReference.cache
+E:\Projects\train_interview\findTwinCount\findTwinCount\obj\Debug\findTwinCount.csproj.CoreCompileInputs.cache
+E:\Projects\train_interview\findTwinCount\findTwinCount\obj\Debug\findTwinCount.exe
+E:\Projects\train_interview\findTwinCount\findTwinCount\obj\Debug\findTwinCount.pdb
